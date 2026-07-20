@@ -1,30 +1,36 @@
 # Drumming Lesson Timetable
 
-A 10-week rotating timetable for drumming students at Keyed Up Music.
+Term 3 timetable for drumming students at Keyed Up Music.
 
 ## Features
 
-- **10-Week Rotating Schedule**: Students rotate through different lesson times each week
-- **Fixed Student**: Harvey maintains the same time slot (12:45) every week
-- **Rotating Students**: Luke, Bailey, Herschell, and Thomas rotate forward one slot each week
-- **All times 15 minutes earlier** than original schedule
+- **10-Week Rotating Schedule**
+- **New start time at 9:40 AM**
+- **Two new slots included**: one 20-minute and one 30-minute slot
+- **New students added**: Chance (Year 9), Huarya (Year 8)
+- **Fixed student**: Harvey remains in the 12:45 slot every week
+- **Senior dashboards**: separate dashboards for Chance and Huarya with all other names blanked out
 
 ## Lesson Times
 
-- 11:05 (was 11:20)
-- 11:35 (was 11:50)
-- 11:55 (was 12:10)
-- 12:15 (was 12:30)
-- 12:45 (was 1:00)
+- 9:40
+- 10:00
+- 11:05
+- 11:35
+- 11:55
+- 12:15
+- 12:45
 
 ## Downloads
 
 - **Excel**: `drumming_timetable.xlsx`
 - **CSV**: `drumming_timetable.csv`
 
-## View Online
+## Dashboards
 
-Visit the website to view the interactive timetable with filtering and printing options.
+- Main timetable: `index.html`
+- Chance (Year 9): `chance_dashboard.html`
+- Huarya (Year 8): `huarya_dashboard.html`
 
 ---
 

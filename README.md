@@ -9,7 +9,7 @@ Term 3 timetable for drumming students at Keyed Up Music.
 - **Two new slots included**: one 20-minute and one 30-minute slot
 - **New students added**: Chance (Year 9), Huarya (Year 8)
 - **Fixed student**: Harvey remains in the 12:45 slot every week
-- **Senior dashboards**: separate dashboards for Chance and Huarya with all other names blanked out
+- **Senior dashboards**: separate dashboards for Chance, Huarya, Thomas, and Bailey with all other names blanked out; each dashboard includes Download and Print buttons
 
 ## Lesson Times
 
@@ -31,6 +31,8 @@ Term 3 timetable for drumming students at Keyed Up Music.
 - Main timetable: `index.html`
 - Chance (Year 9): `chance_dashboard.html`
 - Huarya (Year 8): `huarya_dashboard.html`
+- Thomas: `thomas_dashboard.html`
+- Bailey: `bailey_dashboard.html`
 
 ---
 

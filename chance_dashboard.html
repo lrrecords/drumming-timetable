@@ -12,11 +12,31 @@
     th, td { border: 1px solid #ddd; padding: 10px; text-align: center; }
     thead { background: #f3f3f3; }
     .name { font-weight: 700; color: #1f4fa7; }
+    .actions { margin: 16px 0; }
+    .actions a, .actions button {
+      display: inline-block;
+      margin-right: 10px;
+      padding: 9px 18px;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      border: none;
+    }
+    .btn-download { background: #1f4fa7; color: #fff; }
+    .btn-print { background: #555; color: #fff; }
+    @media print { .actions { display: none; } }
   </style>
 </head>
 <body>
   <h1>Chance (Year 9) - Term 3 Timetable</h1>
   <p>Only Chance's lesson slot is shown. All other student names are blanked out.</p>
+
+  <div class="actions">
+    <a class="btn-download" href="./chance_dashboard.html" download>⬇ Download</a>
+    <button class="btn-print" onclick="window.print()">🖨 Print</button>
+  </div>
 
   <table>
     <thead>

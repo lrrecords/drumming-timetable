@@ -1,11 +1,11 @@
-Week,9:40,10:00,11:05,11:35,11:55,12:15,12:45
-Week 1,Luke,Bailey,Herschell,Thomas,Chance,Huarya,Harvey
-Week 2,Huarya,Luke,Bailey,Herschell,Thomas,Chance,Harvey
-Week 3,Chance,Huarya,Luke,Bailey,Herschell,Thomas,Harvey
-Week 4,Thomas,Chance,Huarya,Luke,Bailey,Herschell,Harvey
-Week 5,Herschell,Thomas,Chance,Huarya,Luke,Bailey,Harvey
-Week 6,Bailey,Herschell,Thomas,Chance,Huarya,Luke,Harvey
-Week 7,Luke,Bailey,Herschell,Thomas,Chance,Huarya,Harvey
-Week 8,Huarya,Luke,Bailey,Herschell,Thomas,Chance,Harvey
-Week 9,Chance,Huarya,Luke,Bailey,Herschell,Thomas,Harvey
-Week 10,Thomas,Chance,Huarya,Luke,Bailey,Herschell,Harvey
+Week,9:40,10:10,11:05,11:35,11:55,12:15,12:45,1:15
+Week 1,Luke,Bailey,Herschell,Thomas,Chance,Huarya,Harvey,Emmanuel
+Week 2,Emmanuel,Luke,Bailey,Herschell,Thomas,Chance,Harvey,Huarya
+Week 3,Huarya,Emmanuel,Luke,Bailey,Herschell,Thomas,Harvey,Chance
+Week 4,Chance,Huarya,Emmanuel,Luke,Bailey,Herschell,Harvey,Thomas
+Week 5,Thomas,Chance,Huarya,Emmanuel,Luke,Bailey,Harvey,Herschell
+Week 6,Herschell,Thomas,Chance,Huarya,Emmanuel,Luke,Harvey,Bailey
+Week 7,Bailey,Herschell,Thomas,Chance,Huarya,Emmanuel,Harvey,Luke
+Week 8,Luke,Bailey,Herschell,Thomas,Chance,Huarya,Harvey,Emmanuel
+Week 9,Emmanuel,Luke,Bailey,Herschell,Thomas,Chance,Harvey,Huarya
+Week 10,Huarya,Emmanuel,Luke,Bailey,Herschell,Thomas,Harvey,Chance
